@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "No style is needed, every time you write code as you can to save the time\
+    \ and effort"
+  - text: Create your own style and follow it consistently
+  - text: All programmers write code in the same style following one of generally accepted
+      coding style guides
+  - text: Every programmer has their own unique but consistent coding style
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12416#comment
+status: Unchecked
+record: -1
+local_check: false

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Cleansing and formatting a line of code" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code style for a project" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Code with style issues" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Encrypted code constructor" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Fixing a scrambled 'Hello, World!' program" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Indentation" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/The number of spaces" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Tricky spaces" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Unscramble the greeting message program" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Adding comments to a 2D distance calculation program" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Alternative code" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Factorial Finder" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Forms of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Leave it for later" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncommented comments" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Accessing fields" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Calculating area of a rectangle using class and methods" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Creating and Utilizing an Object to Display Greeting" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Filling in the blanks for a canine-centric code" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Find reference types" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Immutability" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is my age" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is the value of a field" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Find the first occurrence of the word  the" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Generating passwords" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Impossible to generate" />
+            <option value="$PROJECT_DIR$/Topics/Random class/The result of a method" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Which values can be generated" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

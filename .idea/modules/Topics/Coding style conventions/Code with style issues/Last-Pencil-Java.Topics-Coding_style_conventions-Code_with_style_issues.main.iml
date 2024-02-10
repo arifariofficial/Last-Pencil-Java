@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Coding_style_conventions-Code_with_style_issues:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Coding style conventions/Code with style issues" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Last-Pencil-Java" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Coding style conventions/Code with style issues/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Coding style conventions/Code with style issues/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Coding style conventions/Code with style issues/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

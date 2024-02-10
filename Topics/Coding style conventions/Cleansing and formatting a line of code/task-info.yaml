@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "public class Main {\n    // Define your function here. Its objective is to\
+    \ clean up the Java code snippet according\n    // to the Java coding style conventions.\
+    \ The function inputs are a single String argument,\n    // which represents a\
+    \ line of code including a variable name, an equal sign, a value, and\n    //\
+    \ a semicolon.\n    public static String cleanUpJavaCodeSnippet(String javaLine)\
+    \ {\n        // To do your cleanup, you can utilize various String methods such\
+    \ as replace(), \n        // trim(), and split(). Be sure to consider situations\
+    \ that might potentially \n        // violate coding style conventions and also\
+    \ check that the cleaned code \n        // is not exceeding 80 characters in length.\n\
+    \n        // Return the cleaned up string.\n        // return cleaned_string;\n\
+    \        return null;\n    }\n\n    // In the main method, you can call the function\
+    \ you defined above. \n    public static void main(String[] args) {\n        //\
+    \ Call your function with a test case.\n        // String javaLine = \"test_case\"\
+    ; \n        // Example: String javaLine = \"variableName=200;\";\n        // String\
+    \ cleanedJavaLine = cleanUpJavaCodeSnippet(javaLine);\n\n        // Print the\
+    \ cleaned up Java line.\n        // System.out.println(cleanedJavaLine);\n   \
+    \ }\n}'"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/43083#comment
+status: Unchecked
+record: -1
+submission_language: java17

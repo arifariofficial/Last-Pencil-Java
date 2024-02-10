@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          /**
+           * Create the Rectangle class here
+           * Add a constructor and a method "calculateArea"
+           * Don't forget to mark the instance variables as private!
+           */
+      
+          public static void main(String[] args) {
+              //  Create a Scanner object to read input from console
+              Scanner scanner = new Scanner(System.in);
+      
+              //  Read the width and the height of the rectangle from console
+              double width = scanner.nextDouble();
+              double height = scanner.nextDouble();
+      
+              /**
+               * Create an object of your Rectangle class, using width and height read from the console
+               * then call your "calculateArea" method and print the result
+               */
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41554#comment
+status: Solved
+record: -1
+submission_language: java17
